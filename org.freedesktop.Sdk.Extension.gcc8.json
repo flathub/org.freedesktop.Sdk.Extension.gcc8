@@ -22,7 +22,7 @@
             "name": "gcc",
             "config-opts": [
                 "--with-bugurl=https://flathub.org",
-                "--enable-languages=c,c++,fortran",
+                "--enable-languages=c,c++,fortran,lto",
                 "--enable-__cxa_atexit",
                 "--enable-checking=release",
                 "--enable-clocale=gnu",
