@@ -69,6 +69,10 @@
                     }
                 }
             },
+            "make-install-args": [
+                "install-gcc-ar",
+                "install-lto-wrapper"
+            ],
             "sources": [
                 {
                     "type": "archive",
