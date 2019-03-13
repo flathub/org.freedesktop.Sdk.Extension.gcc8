@@ -1,10 +1,10 @@
 {
     "id": "org.freedesktop.Sdk.Extension.gcc8",
-    "branch": "1.6",
+    "branch": "18.08",
     "runtime": "org.freedesktop.Sdk",
     "build-extension": true,
     "sdk": "org.freedesktop.Sdk",
-    "runtime-version": "1.6",
+    "runtime-version": "18.08",
     "sdk-extensions": [],
     "appstream-compose": false,
     "separate-locales": false,
@@ -72,8 +72,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://ftp.gnu.org/gnu/gcc/gcc-8.2.0/gcc-8.2.0.tar.xz",
-                    "sha256": "196c3c04ba2613f893283977e6011b2345d1cd1af9abeac58e916b1aab3e0080"
+                    "url": "https://ftp.gnu.org/gnu/gcc/gcc-8.3.0/gcc-8.3.0.tar.xz",
+                    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
                 },
                 {
                     "type": "shell",
