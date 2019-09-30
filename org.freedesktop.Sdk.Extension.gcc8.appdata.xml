@@ -5,4 +5,5 @@
   <project_license>GPL-2.0-with-GCC-exception</project_license>
   <name>GCC 8 Sdk extension</name>
   <summary>Extension providing latest stable release of GCC 8</summary>
+  <url type="homepage">https://gcc.gnu.org</url>
 </component>
